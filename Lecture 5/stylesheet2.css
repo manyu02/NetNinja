@@ -1,0 +1,40 @@
+/* p.error{
+    color: rgb(64, 211, 72);
+}
+p.success{
+    color: rgb(29, 15, 220);
+}
+p.success.feedback{
+    color: #149790; border: 1px dashed rgb(146, 16, 42);
+} 
+#content{
+    background-color: #ebebeb;
+    padding: 20px;
+
+} */
+ /* div .error{
+    color: #931dc9;
+ } */
+
+ /* a[href="https//:github.com/"]{
+    background-color: darkviolet;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    
+} */
+
+div{
+    color: lightcoral;
+    border: 1px solid gray;
+    margin: 40px;
+    font-weight: bold;
+}
+div p{
+    border: inherit;
+    margin: inherit;
+    color: crimson;
+}
+p{
+    color: orange;
+}
